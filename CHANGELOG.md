@@ -1,5 +1,11 @@
 # Nuke 11
 
+## Nuke 11.6.2
+
+*Feb 8, 2023*
+
+- Allow the rendering of static GIF-files
+
 ## Nuke 11.6.1
 
 *Feb 5, 2023*
